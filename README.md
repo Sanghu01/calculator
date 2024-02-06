@@ -1,4 +1,4 @@
-
+@signimus
 # Simple Calculator using Switch Case in Java
 
 This is a simple calculator program implemented in Java that performs basic arithmetic operations (+, -, *, /) using a switch-case statement.
@@ -31,9 +31,7 @@ Result: 50.0
 - Ensure that Java is installed on your system.
 - Input numbers and operators are expected to be entered sequentially, separated by pressing the 'Enter' key.
 - Division by zero is not allowed and will result in an error message.
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-@signimus
+
 
