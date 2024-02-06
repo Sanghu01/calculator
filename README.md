@@ -16,7 +16,7 @@ This is a simple calculator program implemented in Java that performs basic arit
 2. Run the compiled program:
 3. Follow the on-screen prompts:
 - Enter the first number when prompted.
-- - Enter the second number.
+- Enter the second number.
 - Enter the desired operator (+, -, *, /).
 - The program will display the result of the operation.
 
